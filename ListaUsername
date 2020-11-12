@@ -1,0 +1,15 @@
+username: password:
+adam qwerty  adamnewpass
+adam1 test123
+bartek zadanie
+
+Julia Teleexpress
+INSERT INTO `users`( `username`, `password`) VALUES ('Julia','Teleexpress')
+Wojtek Rolnikszukazony
+INSERT INTO `users`( `username`, `password`) VALUES ('Wojtek','Rolnikszukazony')
+Ula Brzydula
+INSERT INTO `users`( `username`, `password`) VALUES ('Ula','Ulabiuro')
+John Sieciowiec
+INSERT INTO `users`( `username`, `password`) VALUES ('John','Sieciowiec2')
+
+Nologin 

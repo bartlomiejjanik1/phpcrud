@@ -1,0 +1,16 @@
+/*Plik obsluguje wygląd wydruku, usuwa buttony z wydruku */
+@page
+{
+  size:A4;
+  margin: 0;
+}
+#print-btn
+{
+  display: none;
+  visibility: none;
+}
+#back-btn
+{
+  display: none;
+  visibility: none;	
+}
